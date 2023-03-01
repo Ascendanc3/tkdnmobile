@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1037214185466",
+    "project_id": "jube---jual-beli-beras-online",
+    "storage_bucket": "jube---jual-beli-beras-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037214185466:android:23e1606017531f2a641643",
+        "android_client_info": {
+          "package_name": "com.ascendanc3.jube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037214185466-0tfdcai238cdut6t8ffgcrc9avg4dbvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ascendanc3.jube",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1037214185466-8obsoevnrrn3oj5qkch81fbln2i26qjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOAySvCo-s4nCZPIuv66YjzuRBYdz6y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037214185466-8obsoevnrrn3oj5qkch81fbln2i26qjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037214185466-2v51lv5g7he1km9u21nl3jvodjf15m8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascendanc3.tkdn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037214185466:android:2cac7cfe42724f81641643",
+        "android_client_info": {
+          "package_name": "com.ascendanc3.tkdn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037214185466-h84gamnjpp1s4cqkvsa6gsccjvusnvev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ascendanc3.tkdn",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1037214185466-8obsoevnrrn3oj5qkch81fbln2i26qjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOAySvCo-s4nCZPIuv66YjzuRBYdz6y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037214185466-8obsoevnrrn3oj5qkch81fbln2i26qjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037214185466-2v51lv5g7he1km9u21nl3jvodjf15m8r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascendanc3.tkdn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

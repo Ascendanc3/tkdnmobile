@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1037214185466-2v51lv5g7he1km9u21nl3jvodjf15m8r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1037214185466-2v51lv5g7he1km9u21nl3jvodjf15m8r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1037214185466-0tfdcai238cdut6t8ffgcrc9avg4dbvc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCl75hCK0v7IBqyVZYt5UfHxQQHajRBh34</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1037214185466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ascendanc3.tkdn</string>
+	<key>PROJECT_ID</key>
+	<string>jube---jual-beli-beras-online</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jube---jual-beli-beras-online.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1037214185466:ios:43ee41fee239ac7b641643</string>
+</dict>
+</plist>
